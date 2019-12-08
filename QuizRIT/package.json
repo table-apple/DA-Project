@@ -1,0 +1,19 @@
+{
+  "name": "quiz_rit",
+  "version": "0.0.1-alpha",
+  "description": "Web application for easy upload for question for QuizRIT Application",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/table-apple/DA-Project.git"
+  },
+  "author": "table_apple",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/table-apple/DA-Project/issues"
+  },
+  "homepage": "https://github.com/table-apple/DA-Project#readme"
+}
